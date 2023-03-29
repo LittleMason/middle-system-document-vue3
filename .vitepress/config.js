@@ -3,8 +3,8 @@
  * @type {import('vitepress').UserConfig}
  */
 module.exports = {
-  base: '/doc-next/',
-  title: 'Vben Admin',
+  base: '/',
+  title: 'iyeed v3 admin',
   lang: 'zh-CN',
   description: '一个开箱即用的前端框架',
   head: createHead(),
@@ -43,7 +43,7 @@ function createHead() {
           'width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no',
       },
     ],
-    ['meta', { name: 'keywords', content: 'vue vben admin docs' }],
+    ['meta', { name: 'keywords', content: 'vue iyeed v3 admin docs' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
   ];
 }

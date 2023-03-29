@@ -38,7 +38,7 @@ console.log(import.meta.env.VITE_PROT);
 # 端口号
 VITE_PORT=3100
 # 网站标题
-VITE_GLOB_APP_TITLE=vben admin
+VITE_GLOB_APP_TITLE=iyeed v3 admin
 # 简称，用于配置文件名字 不要出现空格、数字开头等特殊字符
 VITE_GLOB_APP_SHORT_NAME=vben_admin
 ```
@@ -116,7 +116,7 @@ VITE_LEGACY = false
 // _app.config.js
 // 变量名命名规则  __PRODUCTION__xxx_CONF__   xxx：为.env配置的VITE_GLOB_APP_SHORT_NAME
 window.__PRODUCTION__VUE_VBEN_ADMIN__CONF__ = {
-  VITE_GLOB_APP_TITLE: 'vben admin',
+  VITE_GLOB_APP_TITLE: 'iyeed v3 admin',
   VITE_GLOB_APP_SHORT_NAME: 'vue_vben_admin',
   VITE_GLOB_API_URL: '/app',
   VITE_GLOB_API_URL_PREFIX: '/',
