@@ -1,9 +1,9 @@
 {
-  "name": "vben-admin-docs",
+  "name": "middle-system-docs",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/vbenjs/vue-vben-admin-doc",
-  "author": "Vben <anncwb@126.com>",
+  "repository": "https://github.com/haimalairen/middle-system-document-vue3",
+  "author": "mushaoyu",
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev",
