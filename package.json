@@ -2,7 +2,7 @@
   "name": "middle-system-docs",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/haimalairen/middle-system-document-vue3",
+  "repository": "http://newgitlab.iyeed.com.cn:18888/iyeed/iyeed-framework-cloud/web-cloud/iyeed-v3-admin",
   "author": "mushaoyu",
   "license": "MIT",
   "scripts": {

@@ -179,8 +179,8 @@ getCurrentInstance().ctx.xxxx;
 
 ## 模版区别
 
-- [Vue-Vben-Admin](https://github.com/vbenjs/vue-vben-admin) - 是包含 Demo 示例的,个人建议不要在这上面进行开发。当然，你如果动手能力强的话可以直接改。
-- [Vue-Vben-Admin-Thin-Next](https://github.com/vbenjs/vben-admin-thin-next) 精简了代码后的模版项目。适合在这基础上进行二次开发。
+- [Iyeed-Middle-System](http://newgitlab.iyeed.com.cn:18888/iyeed/iyeed-framework-cloud/web-cloud/iyeed-v3-admin) - 是包含 Demo 示例的,个人建议不要在这上面进行开发。当然，你如果动手能力强的话可以直接改。
+- [Iyeed-Middle-System-Thin-Next](https://github.com/vbenjs/vben-admin-thin-next) 精简了代码后的模版项目。适合在这基础上进行二次开发。
 
 ## 环境问题
 

@@ -46,25 +46,9 @@
 
 ```bash
 # clone 代码
-git clone https://github.com/vbenjs/vue-vben-admin.git
+git clone http://newgitlab.iyeed.com.cn:18888/iyeed/iyeed-framework-cloud/web-cloud/iyeed-v3-admin
 
 ```
-
-### 从 Gitee 获取代码
-
-如果从 github clone 代码较慢的话，可以尝试用 [Gitee](https://gitee.com/annsion/vue-vben-admin) 同步代码到自己的仓库，再 clone 下来即可。
-
-也可以通过下方地址进行 clone
-
-```bash
-git clone https://gitee.com/annsion/vue-vben-admin.git
-```
-
-::: warning 注意
-
-[Gitee](https://gitee.com/annsion/vue-vben-admin)的代码可能不是最新的
-
-:::
 
 ## 安装
 
